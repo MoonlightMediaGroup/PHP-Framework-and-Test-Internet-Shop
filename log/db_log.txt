@@ -1,0 +1,133 @@
+Fault: 17-10-2023 5:11:03 - Data Base not connection: 1049 Unknown database 'shop_db'
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 21
+
+Fault: 17-10-2023 5:33:38 - Error in SQL query: SELECT * FROM articles1 - 1146 Table 'shop.articles1' doesn't exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:05:51 - Error in SQL query: SELECT name1 FROM articles - 1054 Unknown column 'name1' in 'field list'
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:18:05 - Error in SQL query: SELECT id, name FROM product WHERE parent_id = (SELECT id FROM categoey WHERE name = 'Apple') - 1146 Table 'shop.product' doesn't exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:18:16 - Error in SQL query: SELECT id, name FROM products WHERE parent_id = (SELECT id FROM categoey WHERE name = 'Apple') - 1146 Table 'shop.categoey' doesn't exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:18:24 - Error in SQL query: SELECT id, name FROM products WHERE parent_id = (SELECT id FROM category WHERE name = 'Apple') - 1054 Unknown column 'parent_id' in 'where clause'
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:19:11 - Error in SQL query: SELECT id, name FROM products WHERE parent_id = 
+                (SELECT id FROM category WHERE name = 'Apple') - 1054 Unknown column 'parent_id' in 'where clause'
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:20:03 - Error in SQL query: SELECT id, name FROM products WHERE parent_id = 
+                (SELECT id FROM category WHERE name = 'Apple') - 1054 Unknown column 'parent_id' in 'where clause'
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:20:04 - Error in SQL query: SELECT id, name FROM products WHERE parent_id = 
+                (SELECT id FROM category WHERE name = 'Apple') - 1054 Unknown column 'parent_id' in 'where clause'
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:20:05 - Error in SQL query: SELECT id, name FROM products WHERE parent_id = 
+                (SELECT id FROM category WHERE name = 'Apple') - 1054 Unknown column 'parent_id' in 'where clause'
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:20:16 - Error in SQL query: SELECT id, name FROM products WHERE parent_id = 
+                (SELECT id FROM category WHERE name = 'Apple') - 1054 Unknown column 'parent_id' in 'where clause'
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:24:25 - Error in SQL query: SELECT product.id, product.name FROM products LEFT JOIN category ON product.parent_id = category.id WHERE category.id = 1 - 1054 Unknown column 'product.id' in 'field list'
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:24:41 - Error in SQL query: SELECT product.id, product.name FROM products 
+    LEFT JOIN category ON product.parent_id = category.id 
+                                WHERE category.id = 1 - 1054 Unknown column 'product.id' in 'field list'
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:24:54 - Error in SQL query: SELECT product.id, product.name FROM product
+    LEFT JOIN category ON product.parent_id = category.id 
+                                WHERE category.id = 1 - 1146 Table 'shop.product' doesn't exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:25:13 - Error in SQL query: SELECT products.id, products.name FROM product
+    LEFT JOIN category ON products.parent_id = category.id 
+                                WHERE category.id = 1 - 1146 Table 'shop.product' doesn't exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:38:41 - Error in SQL query: SELECT teacher.id, teachers.name, students.id as s_id, students.name s_name
+        FROM teachers
+        LEFT JOIN stud_teach ON teachers.id = stud_teach.teachers
+        LEFT JOIN students ON stud_teach.students = students.id - 1146 Table 'shop.stud_teach' doesn't exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 4:38:57 - Error in SQL query: SELECT teacher.id, teachers.name, students.id as s_id, students.name s_name
+        FROM teachers
+        LEFT JOIN stud_teach ON teachers.id = stud_teach.teachers
+        LEFT JOIN students ON stud_teach.students = students.id - 1054 Unknown column 'teacher.id' in 'field list'
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 19-10-2023 5:29:09 - Error in SQL query: SELECT teachers.* FROM teachers    1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 22-10-2023 15:46:08 - Error in SQL query: SELECT teachers.id,teachers.name FROM teachers WHERE teachers.name='O'Raily'  ORDER BY teachers.name DESC LIMIT 1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Raily'  ORDER BY teachers.name DESC LIMIT 1' at line 1
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 22-10-2023 15:50:59 - Error in SQL query: SELECT teachers.id,teachers.name,join_table1.id as j_id,join_table1.name as j_name FROM teachers LEFT JOIN join_table1 ON teachers.id=join_table1.parent_id WHERE teachers.name='O\'Raily' AND join_table1.name='sasha'  ORDER BY teachers.name DESC LIMIT 1 - 1146 Table 'shop.join_table1' doesn't exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 33
+
+Fault: 22-10-2023 21:41:53 - Error in SQL query: INSERT INTO teachers (id,name,) VALUES ('1','Sergey',) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('1','Sergey',)' at line 1
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 39
+
+Fault: 22-10-2023 21:47:32 - Error in SQL query: INSERT INTO teachers (name,content,gallery_img,img,) VALUES ('Sergey','Develope','["red.png","blue.jpg","black.jpeg"]','main.png',) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('Sergey','Develope','["red.png","blue.jpg","black.jpeg"]','main.png',)' at line 1
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 39
+
+Fault: 22-10-2023 21:49:09 - Error in SQL query: INSERT INTO teachers (name,content,gallery_img,img,) VALUES ('Sergey','Develope','["red.png","blue.jpg","black.jpeg"]','main.png',) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('Sergey','Develope','["red.png","blue.jpg","black.jpeg"]','main.png',)' at line 1
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 39
+
+Fault: 22-10-2023 21:49:43 - Error in SQL query: INSERT INTO teachers (name,content,gallery_img,img) VALUES ('Sergey','Develope','["red.png","blue.jpg","black.jpeg"]','main.png') - 1054 Unknown column 'gallery_img' in 'field list'
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 39
+
+Fault: 22-10-2023 22:55:51 - Error in SQL query: UPDATE teachers SET content='love',gallery_img,'["new_red.png"]',img,'main.png'  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ','["new_red.png"]',img,'main.png'' at line 1
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 56
+
+Fault: 22-10-2023 22:56:33 - Error in SQL query: UPDATE teachers SET name='Nika',gallery_img,'["new_red.png"]',img,'main.png'  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ','["new_red.png"]',img,'main.png'' at line 1
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 56
+
+Fault: 22-10-2023 22:56:37 - Error in SQL query: UPDATE teachers SET gallery_img,'["new_red.png"]',img,'main.png'  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ','["new_red.png"]',img,'main.png'' at line 1
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 56
+
+Fault: 22-10-2023 22:56:41 - Error in SQL query: UPDATE teachers SET name='Nika',gallery_img,'["new_red.png"]',img,'main.png'  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ','["new_red.png"]',img,'main.png'' at line 1
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 56
+
+Fault: 22-10-2023 23:57:58 - Error in SQL query: UPDATE teachers SET name=,img=  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',img=' at line 1
+file C:\OSPanel\domains\in.sh\public_html\core\base\model\BaseModel.php
+In line 56
+

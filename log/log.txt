@@ -1,0 +1,912 @@
+Fault: 16-10-2023 20:05:57 - Method core\admin\controller\IndexController::request() does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 16-10-2023 20:05:57 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 16-10-2023 20:06:49 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 16-10-2023 20:06:58 - Method core\admin\controller\IndexController::request() does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 16-10-2023 20:06:58 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 16-10-2023 20:07:09 - Method core\admin\controller\IndexController::request() does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 16-10-2023 20:07:09 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 16-10-2023 20:08:32 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 16-10-2023 20:15:35 - Not corrected filename on include - core/user/controller/Public_htmlController.php
+file C:\OSPanel\domains\in.sh\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault: 16-10-2023 20:15:36 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 17-10-2023 5:09:53 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 17-10-2023 5:10:20 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 17-10-2023 5:11:03 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 17-10-2023 5:30:04 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 17-10-2023 5:30:04 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 17-10-2023 5:31:05 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 17-10-2023 5:31:42 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 17-10-2023 5:32:43 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 17-10-2023 5:33:38 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 17-10-2023 5:54:21 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 17-10-2023 6:25:05 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 17-10-2023 6:25:06 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 17-10-2023 6:25:08 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 3:52:22 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 3:52:28 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:00:31 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:05:51 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:06:03 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:18:05 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:18:17 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:18:25 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:18:34 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:19:11 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:20:03 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:20:04 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:20:05 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:20:12 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:20:16 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:21:11 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:21:24 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:22:03 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:24:25 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:24:41 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:24:54 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:25:13 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:25:18 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:25:41 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:26:06 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:27:40 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:28:39 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:29:17 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:38:42 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:38:57 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:39:22 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 4:39:57 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 5:27:48 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 5:29:09 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 5:29:59 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 5:31:58 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 5:31:59 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 5:34:09 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 5:35:07 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 5:36:23 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 5:49:49 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 5:50:12 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 5:51:12 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 5:51:29 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 6:49:05 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 6:49:49 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 6:50:51 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 6:51:28 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 6:52:40 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 6:53:44 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 6:53:59 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 6:54:36 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:07:56 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:35:17 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:36:28 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:36:33 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:37:21 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:38:20 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:38:33 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:38:34 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:38:47 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:38:48 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:39:21 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:39:28 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:39:33 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:39:57 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:40:04 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:51:18 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:52:35 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 19-10-2023 7:53:07 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 21:27:02 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 21:27:06 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 21:28:42 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 21:28:46 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 21:39:04 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 22:23:51 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 22:27:53 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 22:31:29 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 22:31:38 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 22:32:06 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 22:32:16 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 22:32:30 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 22:32:40 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 22:32:46 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 21-10-2023 22:43:49 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 8:25:29 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:10:42 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:10:49 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:12:59 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:13:03 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:14:24 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:14:41 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:14:58 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:22:49 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:23:29 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:23:40 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:25:08 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:25:09 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:25:39 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:25:59 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:26:16 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:27:27 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:27:48 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:30:50 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:32:52 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:33:16 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:34:23 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:34:31 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:34:43 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:35:00 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:35:08 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:35:41 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:36:13 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:36:28 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:40:15 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:42:30 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:42:56 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:43:27 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:44:10 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:44:38 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:44:54 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:45:27 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:46:09 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:49:38 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:49:57 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:50:37 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:50:59 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:51:11 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:53:10 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:53:36 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:53:57 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:54:46 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:55:49 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:55:50 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:55:51 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:57:37 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:58:48 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 15:59:47 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 16:00:38 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 16:07:05 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 17:10:43 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 21:03:40 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 21:39:56 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 21:41:01 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 21:41:04 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 21:41:53 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 21:47:32 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 21:49:09 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 21:49:43 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 21:50:15 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 21:51:23 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 21:54:21 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:00:54 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:01:16 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:01:37 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:02:09 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:02:20 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:15:17 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:15:21 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:16:16 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:17:04 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:49:37 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:50:09 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:51:43 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:52:09 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:53:47 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:54:32 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:54:46 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:55:51 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:56:33 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:56:37 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:56:41 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:57:44 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:58:25 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 22:59:17 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 23:00:04 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 23:00:55 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 23:49:52 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 23:53:55 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 23:54:25 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 23:56:28 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 23:57:58 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 22-10-2023 23:59:58 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 0:00:56 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 0:02:26 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 0:03:43 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 0:03:51 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 0:04:04 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 0:04:35 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 0:11:11 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 0:11:28 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 0:15:29 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 0:16:41 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 0:17:07 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 0:34:56 - Not corrected filename on include - core/admin/controller/ShowController.php
+file C:\OSPanel\domains\in.sh\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault: 23-10-2023 0:34:56 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 14:43:37 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 14:43:41 - Not corrected filename on include - core/admin/controller/ShowController.php
+file C:\OSPanel\domains\in.sh\public_html\core\base\settings\internal_settings.php
+In line 43
+
+Fault: 23-10-2023 14:43:41 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 14:44:32 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 14:44:35 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 14:44:46 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 14:45:25 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 23-10-2023 14:46:42 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
+Fault: 24-10-2023 7:00:46 - Class core\user\controller\Favicon.icoController does not exist
+file C:\OSPanel\domains\in.sh\public_html\core\base\controller\BaseController.php
+In line 37
+
